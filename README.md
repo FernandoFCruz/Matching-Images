@@ -17,10 +17,19 @@ Classificação simples: “mesmo local” ou “não é o mesmo local”
 
 ------------------------------------------------------------------------
 
-ESTRUTURA DO DIRETÓRIO Matching-Images/ │ ├── comparar_imagens.py ├──
-executar_comparacao.py ├── requirements.txt ├── README.md │ ├── imagens/
-│ ├── imagem1.jpg │ └── imagem2.jpg │ └── resultados/ └── resultado.jpg
+## 📂 Estrutura de Diretórios
 
+## Matching-Images/
+## ├──DataSet
+##      ├── Place1
+##      ├── Place2
+##      ├── Place3
+##      ├── Place4
+##      ├── Place5
+## ├── Compare.py
+## ├── ImageMatching.py
+## ├── requirements.txt
+## ├── README.md
 ------------------------------------------------------------------------
 
 COMO INSTALAR
@@ -32,8 +41,6 @@ COMO INSTALAR
 Ativar: Windows: venv Linux/Mac: source venv/bin/activate
 
 3)  Instalar dependências pip install -r requirements.txt
-
-requirements.txt recomendado: numpy opencv-contrib-python
 
 ------------------------------------------------------------------------
 
