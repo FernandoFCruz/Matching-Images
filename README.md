@@ -50,7 +50,7 @@ Matching-Images/
 ### 1️⃣ Clonar o repositório
 
 ``` sh
-git clone <URL-do-repositório>
+git clone <https://github.com/FernandoFCruz/Matching-Images.git>
 cd Matching-Images
 ```
 
